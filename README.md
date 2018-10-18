@@ -24,7 +24,7 @@ For adding property you have get entity from the list by referencing index of it
 
 **4. Returning output.**
 
-	me.returOutput();
+	me.returnOutput();
 
 Library will generate and return XML. 
 
